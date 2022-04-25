@@ -1,5 +1,5 @@
 const printHello = () => {
-    console.log('Hello world v2');
+    console.log('Hello world v1.0.2');
 }
 
 modules.export = { printHello }
