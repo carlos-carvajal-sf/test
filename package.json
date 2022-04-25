@@ -1,19 +1,19 @@
 {
   "name": "@carlos-carvajal-sf/test",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "repository":"https://github.com/carlos-carvajal-sf/test",
+    "repository": "https://github.com/carlos-carvajal-sf/test",
     "type": "git",
     "url": "git+ssh://github.com/carlos-carvajal-sf/test.git"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@carlos-carvajal-sf/test": "^2.1.0"
+    "@carlos-carvajal-sf/test": "^2.1.1"
   }
 }
