@@ -13,8 +13,5 @@
     "directory": "repo2"
   },
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "@carlos-carvajal-sf/test": "^2.1.0"
-  }
+  "license": "ISC"
 }
