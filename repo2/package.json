@@ -1,5 +1,5 @@
 {
-  "name": "@carlos-carvajal-sf/test",
+  "name": "@carlos-carvajal-sf/repo2",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://github.com/carlos-carvajal-sf/test.git"
+    "url": "git+ssh://github.com/carlos-carvajal-sf/test/repo2.git"
   },
   "author": "",
   "license": "ISC"
