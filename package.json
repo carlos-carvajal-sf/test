@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://carlos-carvajal-sf/test.git"
+    "url": "git+ssh://github.com/carlos-carvajal-sf/test.git"
   },
   "author": "",
   "license": "ISC"
