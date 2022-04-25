@@ -1,5 +1,5 @@
 {
-  "name": "@staffingfutre/test-hello",
+  "name": "@carlos-carvajal-sf/test",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com-SF:carlos-carvajal-sf/test.git"
+    "url": "git://carlos-carvajal-sf/test.git"
   },
   "author": "",
   "license": "ISC"
