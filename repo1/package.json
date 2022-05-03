@@ -1,10 +1,14 @@
 {
   "name": "@carlos-carvajal-sf/repo1",
-  "version": "2.1.3",
+  "version": "2.3.1",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "eslint .; [ $? = 0 ] && ava",
+    "prettier": "prettier --write .",
+    "patch-release": "npm version patch",
+    "minor-release": "npm version minor",
+    "major-release": "npm version major"
   },
   "repository": {
     "repository": "https://github.com/carlos-carvajal-sf/test",
